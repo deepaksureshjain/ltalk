@@ -15,7 +15,7 @@ SECRET_KEY = 'mr6(=ujfwd$@9qpuumj^n1i%bjm%=9dw%gv3d-8b&vhi_0oz4x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ltalk.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['ltalk.herokuapp.com','127.0.0.1','talkinz.web.app']
 
 
 # Application definition
